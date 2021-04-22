@@ -159,7 +159,7 @@ COMMAND SUPPLIED
 
 1. **Run go get to install the latest release of git-xargs**
 
-`go get github.com/gruntwork-io/git-xargs`
+`go get github.com/gruntwork-io/git-xargs/cmd/git-xargs`
 
 1. **Alternatively, use go get to install a specific release of git-xargs**
 
